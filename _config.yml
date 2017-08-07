@@ -1,0 +1,26 @@
+# Site settings
+title: Les Zorateurs
+header-img: img/home-bg.jpg
+email: zoruasmr@gmail.com
+copyright_name: Zoru
+description: "Site officiel de la communauté des Zorateurs"
+baseurl: ""
+url: "http://zorateurs.com"
+twitter_username: Zoruasmr
+github_username:  
+facebook_username:  Zoruasmr
+email_username:  zoruasmr@gmail.com
+snapchat_username: zoruninho
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

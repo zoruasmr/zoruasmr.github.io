@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Lancement du site des Zorateurs"
+subtitle:   "Début d'une nouvelle histoire"
+date:       2017-08-07 4:00:00
+author:     "Zoru"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>Bonjour à tous !</p>
+
+<p>Je suis ravi d'annoncer aujourd'hui le lancement du site officiel des <b>Zorateurs</b>. Si tu ne sais pas qui sont les Zorateurs, je te recommande chaudement <a href="/about">la page expliquant notre histoire.</a></p>
+
+<p>Le site aura pour but de publier quelques <b>nouvelles</b> sur notre communauté, de partager les résultats des différents jeux auxquels participeront Les Zorateurs. C'est actuellement limité à <b>Clash Royale</b> mais pourquoi pas envisager d'autres équipes par la suite. Dans le cas de Clash Royale d'ailleurs, il y aura très prochainement sur ce site une page <b>dédiée</b> à notre clan et tu pourras y retrouver les résultats des coffres de clan ainsi que différentes nouvelles liées à l'équipe. Un message expliquant les <b>règles</b> et le <b>fonctionnement</b> du clan sera bientôt rédigé</p>
+
+<p>D'ailleurs un post dans cette nouvelle catégorie arrivera dans les jours qui viennent pour parler de notre <b>premier coffre</b> ensemble et détailler à la fois les <b>meilleures</b> performances au sein de l'équipe ainsi que les <b>moins bonnes</b>. Pour ce premier post, il s'agira principalement de non-performances pour certains d'ailleurs ce qui est logique étant donné l'arrivée de 50 joueurs en seulement quelques jours. Comme promis, un <b>renouvellement</b> de l'effectif sera effectué.</p>
+
+<p>On se retrouve donc très bientôt pour ces futures nouvelles !</p>
+
+<p><b>Zoru</b></p>
