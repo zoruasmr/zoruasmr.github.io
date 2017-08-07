@@ -1,9 +1,12 @@
 ---
 layout: page
-description: "Dans le calme s'exprime la force"
+title: "Notre équipe Clash Royale"
+description: "Notre fonctionnement, nos actualités, nos aventures"
+header-img: "img/clash-royale/clashroyale-bg.jpg"
+tags: clash
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.categories.clash-royale %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
