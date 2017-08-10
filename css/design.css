@@ -1,0 +1,14 @@
+.bold {
+ 	font-weight:bold;
+}
+.italic {
+	font-style:italic;
+}
+.underline {
+	text-decoration: underline;
+}
+
+.post-title {
+	font-size: 28px;
+	font-weight: bold;
+}

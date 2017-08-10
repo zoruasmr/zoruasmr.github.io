@@ -1,0 +1,42 @@
+---
+layout:     post
+permalink: /clash-royale/rules
+title:      "Règles et fonctionnement du clan"
+subtitle:   "Une dictature à la cool"
+date:       2017-08-09 11:00:00
+author:     "Zoru"
+header-img: "img/clash-royale/rules-bg.jpg"
+category: clash-royale
+tags: rules
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJiBjfvltQw" frameborder="0" allowfullscreen></iframe>
+
+<p><span class="post-title">Les règles</span></p>
+
+<p>Elles sont assez <b>simples</b> pas de quoi s'inquiéter. Mais vu qu'il faut parfois le rappeler, je te propose une liste claire ci-dessous avec en italique les sanctions potentielles (par ordre de probabilité, la première étant la plus probable)</p>
+
+<ul>
+	<li><b>Pas d'insultes</b> dans le chat - <i>Kick temporaire, Kick définitif, Avertissement final</i></li>
+	<li>Les propos <b>xenophobes, homophobes ou sexistes</b> ne seront pas tolérés - <i>Kick définitif</i></li>
+	<li>Toute forme de <b>publicité/promotion</b> est interdite. Il est cependant possible de me demander d'abord par message privé (Facebook, Twitter, Snapchat, ...) s'il est possible d'en faire une petite - <i>Avertissement, Kick Temporaire, Kick définitif</i></li>
+	<li>Venir pour <b>ne pas participer</b> est inutile. Un compte ne participant à aucune donation ou aucun coffre de clan ne restera pas longtemps dans l'équipe - <i>Kick temporaire, Kick définitif</i></li>
+</ul>
+
+<p>Concernant le kick temporaire, il s'agit bien d'une exclusion comme les autres mais elle n'est pas définitive. Il est possible de postuler de nouveau après une certaine période évoquée avant le kick en question. Le kick définitif met le pseudo sur une <b>liste noire</b>.</p>
+
+<p><span class="post-title">Le fonctionnement</span></p>
+
+<p>Nos valeurs de base mettent en avant <b>l'entraide</b> et le <b>calme</b>. Au quotidien il est courant <b>d'échanger</b>, de <b>s'entraîner</b> ensemble, de <b>discuter</b> de choses et d'autres. La semaine se passe dans la bonne humeur et le but reste avant tout de <b>s'amuser</b> ensemble.</p>
+
+<p>Cependant Clash Royale reste un jeu avec un côté un peu <b>compétitif</b> et il est plus stimulant de se donner des <b>objectifs</b> à atteindre et se donner les moyens d'y arriver. Nous visons évidemment le coffre de clan de niveau 10 et pour cela nous attendons une <b>participation active</b> des membres à la période du coffre. A plus long terme, pourquoi pas viser une position <b>décente</b> au sein du classement français.</p>
+
+<p>A la fin de chaque coffre de clan, un <b>bilan</b> est proposé sur ce même site. Il résume rapidement la semaine puis présente les <b>performances</b> de chacun. Chaque joueur se voit attribué un <b>score</b> calculé en fonction des donations, du nombre de couronnes rapportées et du nombre de trophées du joueur. Ce score m'aide ensuite à décider des <b>promotions</b> et des <b>exclusions</b>. Pour avoir un exemple concret, je te conseille le <a href="{{ "/clash-royale/2017/08/07/chestresults/" | prepend: site.baseurl }}" target="_blank">premier post récapitulatif. </a>Dans cet exemple, il y avait beaucoup de promotions et d'exclusions car le clan venait à peine de se former et devait encore se stabiliser. Il n'y aura pas 4 promotions chaque semaine, ni autant d'exclusions je l'espère.</p>
+
+<p>Concernant les <b>promotions</b>, le but est de récompenser ceux qui s'investissent le plus régulièrement et qui partagent les valeurs de l'équipe. Les joueurs avec les meilleurs scores sont les plus susceptibles d'obtenir une promotion au rang d'ainé, mais une très bonne performance sur une semaine <b>n'assure pas</b> pour autant une promotion. Le but n'est pas d'avoir 43 ainés au bout de 2 mois, l'équipe modératrice doit rester <b>restreinte</b> pour garder de la cohérence. Le meilleur moyen d'obtenir le rang d'ainé reste de participer <b>régulièrement</b> et de contribuer positivement à l'atmosphère générale. Je ne parle pas forcément souvent dans le chat mais je lis tous les messages et j'en prends compte.</p>
+
+<p>Concernant les <b>exclusions</b>, il ne s'agit évidemment pas de s'acharner sur les joueurs ayant des difficultés ou qui débutent sur le jeu. Il s'agit avant tout de nous séparer des membres ne <b>participant aucunement</b> au clan que ce soit via les donations ou les couronnes. La demande est assez élevée, il faut laisser de la place aux joueurs les plus <b>motivés</b>. Un joueur de bas niveau ne pouvant quasiment pas faire de donations et ayant du mal à gagner des parties ne sera pas sanctionné s'il tente de s'améliorer et qu'une <b>progression</b> est visible. Si le joueur ne participe plus ou ne décolle plus d'un niveau particulièrement bas, l'exclusion est probable.</p>
+
+<p>Pas de panique, si tu es <b>indisponible</b> pour certaines raisons (vacances, circonstances particulières, ...) tu es invité à me <b>prévenir</b> à l'avance et une absence temporaire est bien entendu autorisée ! La dictature <b>sympathique</b> avant tout.</p>
+
+<p><b>Zoru</b></p>
