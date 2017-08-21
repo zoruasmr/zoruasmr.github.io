@@ -32,6 +32,8 @@ category: clash-royale
 
 <p>Encore deux <b>hyperperformances</b> cette semaine, <b>superfranois</b> et <b>Shôny</b> se sont affrontés hardemment pour le meilleur score de la semaine ce qui a énormément contribué au coffre pour notre plus grand plaisir. <b>Shôny</b> l'emporte sur le fil avec 252 (15,75% du total général) couronnes contre 251 (15,69%) pour <b>superfranois</b>. Mais ce dernier l'emporte au score général (19809 contre 19549) grâce à ses quelques donations supplémentaires ! Cette compétition fut très <b>positive</b> pour notre objectif.</p>
 
+<p>Néanmoins, 19809 n'est pas le meilleur score de cette semaine. On peut voir en haut du tableau que <b>clément</b> s'offre la première place avec <b>22392</b> points. Ce n'est pas le record de l'équipe (obtenu par <b>Kal</b> durant le deuxième coffre) mais ça s'en rapproche ! Le coffre de clan est certes <b>primordial</b> et les couronnes rapportées sont largement <b>récompensées</b> dans l'algorithme de calcul du score. Mais <b>Les Zorateurs</b> c'est aussi beaucoup d'entraide et de <b>partage</b>, et les dons font partie intégrante de la vie d'un clan. C'est donc avec un impressionnant score de <b>1333 dons</b> que <b>clément</b> obtient un tel résultat. Sans oublier ses <b>180 couronnes</b> ce qui reste bien largement au-dessus de la moyenne. Gros <b>bravo</b> à lui !</p>
+
 <p>On remarque aussi une <b>amélioration</b> progressive du niveau moyen de l'équipe et du nombre de trophées moyen. Il reste beaucoup de chemin pour atteindre les meilleures places en France mais la progression est dans le bon sens !</p>
 
 <p><span class="post-title">Les moins satisfactions</span></p>
@@ -42,7 +44,7 @@ category: clash-royale
 
 <p><span class="post-title">Conclusion</span></p>
 
-<p>Nous félicitons donc chaudement <b>superfranois</b> pour sa promotion en tant qu'ainé ! <b>Shôny</b> la mérite tout autant mais elle a déjà eu cette récompense la semaine passée et ne peut pas cumuler les promotions. <b>Bravo</b> tout de même à elle aussi pour deux semaines aussi réussies. Les autres ne sont pas oubliés et je réléchis toujours à un système de <b>récompense</b> pour les joueurs les plus réguliers, même s'ils n'atteignent pas les meilleurs score d'une semaine en particulier. Je suis toujours <b>à l'écoute</b> de propositions à ce sujet par ailleurs.</p>
+<p>Nous félicitons donc chaudement <b>clément</b> et <b>superfranois</b> pour leurs promotions en tant qu'ainé ! <b>Shôny</b> la mérite tout autant mais elle a déjà eu cette récompense la semaine passée et ne peut pas cumuler les promotions. <b>Bravo</b> tout de même à elle aussi pour deux semaines aussi réussies. Les autres ne sont pas oubliés et je réléchis toujours à un système de <b>récompense</b> pour les joueurs les plus réguliers, même s'ils n'atteignent pas les meilleurs score d'une semaine en particulier. Je suis toujours <b>à l'écoute</b> de propositions à ce sujet par ailleurs.</p>
 
 <p>On se retrouve la semaine prochaine pour un nouveau bilan, qui sera le premier bilan pour lequel le coffre de clan sera réalisable aussi via le mode <b>2V2</b>.</p>
 
