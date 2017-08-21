@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Résultats du coffre de clan du 21 Août 2017"
-subtitle:   "Que des numéros 10 dans ma team"
+subtitle:   "Duel au sommet"
 date:       2017-08-21 08:00:00
 author:     "Zoru"
 header-img: "img/clash-royale/clash-royale-chest.jpg"
