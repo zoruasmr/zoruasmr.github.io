@@ -23,7 +23,7 @@ category: clash-royale
 <ul>
 	<li><b>Niveau moyen</b> : 8 / 9 </li>
 	<li><b>Nombre de trophées moyen</b> : 2272 / 2439</li>
-	<li><b>Dons moyens</b> : 199 / 177</li>
+	<li><b>Dons moyens</b> : 199 / 225</li>
 	<li><b>Couronnes moyennes</b> : 32 / 32 (maximum du coffre 10)</li>
 	<li><b>Score moyen</b> : 4133 / 3943 </li>
 </ul>
@@ -40,7 +40,7 @@ category: clash-royale
 
 <p>Encore beaucoup de joueurs <b>inactifs</b> ou <b>quasi-inactifs</b>. L'algorithme propose d'exclure <b>12 joueurs</b> de notre équipe. 3 d'entre-eux ont prévenu de leur absence temporaire et ne seront évidemment pas kick (<b>MrDURDYN</b>, <b>MaxBalet</b> et <b>MiniPasoto</b>) mais ça laisse tout de même 9 joueurs qui nous quittent cette semaine. Soit <b>18%</b> de l'effectif qui doit de nouveau être renouvelé. Cependant lors de la première semaine, ce n'était pas moins de 17 joueurs qui nous quittaient. L'équipe gagne progressivement en <b>stabilité</b>. </p>
 
-<p>On peut aussi voir une légère <b>régression</b> dans certaines stats de la semaine. Un peu moins de dons par personne, un score moyen légèrement plus <b>faible</b>. La période <b>estivale</b> peut facilement expliquer ce genre de rythme et le retour à une période <b>scolaire</b> sera un test assez intéressant pour l'équipe.</p>
+<p>On peut aussi voir une légère <b>régression</b> du score moyen légèrement plus <b>faible</b>. La période <b>estivale</b> peut facilement expliquer ce genre de rythme et le retour à une période <b>scolaire</b> sera un test assez intéressant pour l'équipe.</p>
 
 <p><span class="post-title">Conclusion</span></p>
 
