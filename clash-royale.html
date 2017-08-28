@@ -7,19 +7,40 @@ tags: clash
 ---
 
 {% for post in site.categories.clash-royale %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%d/%m/%Y" }}</p>
-</div>
-<hr>
+    {% if post.rules %}
+        <div class="post-preview">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h4>Post épinglé</h4>
+                <h2 class="post-title" style="color: #dc6666; margin-top: 10px">            {{ post.title }}
+                </h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ post.subtitle }}
+                </h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%d/%m/%Y" }}</p>
+        </div>
+        <hr>
+    {% endif %}
+{% endfor %}
+
+{% for post in site.categories.clash-royale %}
+    {% unless post.rules %}
+        <div class="post-preview">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title">            {{ post.title }}
+                </h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ post.subtitle }}
+                </h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%d/%m/%Y" }}</p>
+        </div>
+        <hr>
+    {% endunless %}
 {% endfor %}
 
 <!-- Pager -->
