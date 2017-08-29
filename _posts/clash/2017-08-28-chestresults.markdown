@@ -22,7 +22,7 @@ category: clash-royale
 <p>Format : <b>semaine précédente / semaine actuelle</b></p>
 <ul>
 	<li><b>Niveau moyen</b> : 9 </li>
-	<li><b>Nombre de trophées moyen</b> : 2439 / 2428</li>
+	<li><b>Nombre de trophées moyen</b> : 2439 / 2659</li>
 	<li><b>Dons moyens</b> : 225 / 276</li>
 	<li><b>Couronnes moyennes</b> : 32 / 32 (maximum du coffre 10)</li>
 	<li><b>Score moyen</b> : 3943 / 5034 </li>
@@ -32,13 +32,11 @@ category: clash-royale
 
 <p>L'arrivée du mode <b>2c2</b> s'est faite sentir très positivement pour ce coffre de clan. J'ai été ravi de voir que les Zorateurs n'hésitaient pas à jouer <b>ensemble</b>, à se regrouper pour gagner ensemble et avoir un rythme de couronnes anormalement <b>élevé</b>. Le niveau 10 fut atteint seulement <b>12h</b> après le début, alors que nous avions 72 pour y arriver. C'est une <b>superbe</b> performance collective et c'est la satisfaction principale. Pour la première fois, il n'y a pas eu 2/3 individualités qui ont survolé les débats et offerts le clan à l'équipe.</p>
 
-<p>On voit donc que les scores sont bien plus <b>homogènes</b> pour cette semaine. Personne n'a dépassé les 16 000 qui offraient une promotion les semaines passées, mais beaucoup tournent autour de 10 000 points. La moyenne est passée de 3943 à 5034 points soit une augmentation de <b>27,7%</b> en une semaine. On a aussi eu une sympathique augmentation du nombre moyen de donations, ce qui est toujours bon à prendre.</p>
+<p>On voit donc que les scores sont bien plus <b>homogènes</b> pour cette semaine. Personne n'a dépassé les 16 000 qui offraient une promotion les semaines passées, mais beaucoup tournent autour de 10 000 points. La moyenne est passée de 3943 à 5034 points soit une augmentation de <b>27,7%</b> en une semaine. On a aussi eu une sympathique augmentation du nombre moyen de donations, ce qui est toujours bon à prendre. Sans oublier la belle <b>augmentation</b> du nombre de trophées en moyenne, passant de 2439 à 2659 soit une augmentation de 9%. Pour rappel, la moyenne au début était de 1635 et nous avons donc augmenté de 62,6% en 4 semaines.</p>
 
 <p><span class="post-title">Les moins satisfactions</span></p>
 
 <p>Peu d'éléments négatifs cette semaine, plutôt des <b>interrogations</b>. L'arrivée du 2c2 a eu un impact évident car il permet de gagner plus facilement des couronnes, d'en gagner 2 fois plus vite en jouant entre membres du clan et le tout sans prendre de risques sur un éventuel nombre de trophées. C'est donc extrêmement positif pour la réalisation du coffre mais <b>fausse</b> grandement les résultats. Impossible de comparer cette semaine avec les autres au niveau des couronnes, dur d'estimer la progression réelle de l'équipe actuellement.</p>
-
-<p>On notera aussi une <b>très légère</b> baisse du nombre de trophées moyen. C'est extrêmement minime mais c'est la première fois que ce chiffre n'augmente pas d'une semaine à l'autre. Est-ce que le 2c2 y est aussi pour quelque chose ? <b>Possiblement</b> mais c'est encore une fois dur à estimer. Etant donné que ce mode de jeu semble désormais disponible définitivement, il sera possible d'en savoir davantage sur les prochaines semaines en comparant avec celle-ci.</p>
 
 <p><span class="post-title">Conclusion</span></p>
 
