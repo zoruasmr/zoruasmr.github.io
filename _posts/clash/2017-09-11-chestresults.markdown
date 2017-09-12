@@ -34,7 +34,7 @@ category: clash-royale
 
 <p><b>Stabilité</b> qui est d'ailleurs le mot clé de cette semaine. La progression est <b>légère</b> (6,1% au niveau des trophées) mais l'équipe est désormais peu amenée à évoluer avec les règles actuelles. Seulement 3 kicks cette semaine (et encore, parce que j'ai légèrement relevé le nombre minimum de points nécessaires) c'est parfait.</p>
 
-<p>Au niveau individuel, on retrouve de <b>superbes</b> performances de la part de nos champions <b>Superfranois, Shêny, Gromignon et TyphusNb</b> qui méritent encore pour la plupart les promotions qu'ils ont déjà eu. Du coup <b>pas de promotion</b> de nouveau cette semaine mais des félicitations sincères à tous ceux qui contribuent, que ce soit énormément ou même un peu.</p>
+<p>Au niveau individuel, on retrouve de <b>superbes</b> performances de la part de nos champions <b>Superfranois, Shôny, Gromignon et TyphusNb</b> qui méritent encore pour la plupart les promotions qu'ils ont déjà eu. Du coup <b>pas de promotion</b> de nouveau cette semaine mais des félicitations sincères à tous ceux qui contribuent, que ce soit énormément ou même un peu.</p>
 
 <p><span class="post-title">Les moins satisfactions</span></p>
 
