@@ -15,7 +15,7 @@ category: clash-royale
 [![Stats du 18/09/2017]({{ site.url }}/img/clash-royale/statsDu18092017.png)]({{ site.url }}/img/clash-royale/statsDu18092017.png)
 <i>Ouvrir l'image dans un nouvel onglet ou cliquer pour zoomer</i>
 
-<p>Si tu veux plus de détails sur la façon dont est calculé le score, je te conseille le <a href="{{ "/clash-royale/2017/08/07/chestresults/" | prepend: site.baseurl }}" target="_blank">premier post récapitulatif</a> qui contient les explications. Pour cette semaine, le palier de promotion est descendy à 10 000 et le palier de kick est passé de 600 à 500.</p>
+<p>Si tu veux plus de détails sur la façon dont est calculé le score, je te conseille le <a href="{{ "/clash-royale/2017/08/07/chestresults/" | prepend: site.baseurl }}" target="_blank">premier post récapitulatif</a> qui contient les explications. Pour cette semaine, le palier de promotion est descendu à 10 000 et le palier de kick est passé de 600 à 500.</p>
 
 <p>Comme chaque semaine désormais, on débute avec une <b>comparaison</b> de nos moyennes avec celles de la semaine précédente.</p>
 
