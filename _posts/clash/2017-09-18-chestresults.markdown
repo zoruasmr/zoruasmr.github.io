@@ -23,10 +23,14 @@ category: clash-royale
 <ul>
 	<li><b>Niveau moyen</b> : 9 / 9</li>
 	<li><b>Nombre de trophées moyen</b> : 2822 / 2865</li>
-	<li><b>Dons moyens</b> : 282 / 62</li>
+	<li><b>Dons moyens</b> : 282 / 62 (bug du site)</li>
 	<li><b>Couronnes moyennes</b> : 32 / 32 (maximum du coffre 10)</li>
 	<li><b>Score moyen</b> : 4984 / 2536</li>
 </ul>
+
+<p><span class="post-title">ATTENTION</span></p>
+
+<p>Les valeurs concernant les dons sont <b>fausses</b> (je me disais bien) car le site que j'utilise renvoie les valeurs de la semaine actuelle et non de la semaine précédente comme d'habitude. Le reste de l'article est donc actuellement <b>faussé<+ aussi (surtout au niveau des moins satisfactions). J'ai contacté les admins du site en question pour voir si je peux y faire quelque chose, j'éditerai si c'est le cas et sinon il faut considérer que l'article est <b>erroné</b> concernant le manque de dons. Par contre les kicks restent valables à priori car les inactivités des joueurs en question ne datent pas d'hier. Mais si j'ai fait une erreur, il ne faut pas hésiter à me <b>contacter</b> à ce sujet</p>
 
 <p><span class="post-title">Les satisfactions</span></p>
 
