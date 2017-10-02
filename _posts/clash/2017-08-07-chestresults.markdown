@@ -27,6 +27,16 @@ category: clash-royale
 
 <p><i>Score = (Nbr de trophées/10) + ((Dons * 100)/Niveau) + (Couronnes * 55)</i></p>
 
+<p><span class="post-title">Changements du 2 Octobre 2017</span></p>
+
+<p>Un nouveau facteur est entré en jeu désormais avec le nombre de semaines passées au sein du clan ! La nouvelle formule est la suivante : </p>
+
+<p><i>Score = ((Nbr de trophées/10) + ((Dons * 100)/Niveau) + (Couronnes * 55)) * (1 + (0,05 * nombre de semaines))</i></p>
+
+<p>Celle-ci est appliquée à partir du bilan du 2 Octobre 2017</p>
+
+<p><span class="post-title">Explications</span></p>
+
 <p>Pourquoi ces choix ? Et bien tout d'abord j'ai voulu prendre en compte le nombre de trophées d'un joueur car il apporte tout de même au niveau global du clan et cela doit être récompensé. Cependant j'ai voulu garder l'impact très minime d'où la division par 10. On atteint alors davantage un <b>petit bonus</b> sympa plutôt qu'un totem d'immunité. <br/>
 Ensuite j'ai souhaité récompenser de façon assez équitable les <b>dons</b> et la <b>participation aux couronnes</b>. Comme il est plus difficile pour un joueur débutant de faire des dons et plus aisé pour un joueur expérimenté de partager des cartes, j'ai pris ça en compte dans le calcul. Par exemple pour un joueur de niveau 10, faire 50 dons reviendra à gagner <i>(50*100)/10=500</i> points. Pour un joueur de niveau 5, il gagnera <i>(50*100)/5 = 1000</i> points.<br/>
 Par contre pour les couronnes, c'est quasiment <b>l'inverse</b>. Plus un joueur a de trophées, plus il est difficile d'en remporter. Je n'ai pas encore pris en compte ce facteur dans la formule pour l'instant mais il est possible que je fasse des tests à ce sujet la prochaine fois. Pour l'instant le nombre de points remportés via les couronnes est le <b>même pour tous</b> et la multiplication par 55 vient d'une estimation de la valeur d'une couronne par rapport à un don. En moyenne un don va rapporter environ 10/11 points (pour des joueurs de niveau 9/10) tandis qu'une couronne rapporte donc 55 points. Mais il est en général 4/5 fois plus difficile de ramener une couronne et j'ai donc mis un peu l'accent là-dessus. 
