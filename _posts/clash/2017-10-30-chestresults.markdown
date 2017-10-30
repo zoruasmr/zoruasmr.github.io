@@ -10,7 +10,7 @@ category: clash-royale
 
 <p><b>Salutations à tous !</b></p>
 
-<p>Après 2 semaines sans post à cause d'un bug du site de stats que j'utilise (qui n'est d'ailleurs toujours pas résolu), c'est l'heure du <b>bilan</b> de notre 11ème coffre de clan. Enfin un peu plus en théorie mais il je ne compte pas les semaines sans post pour simplifier. Allons directement analyser nos performances !</p>
+<p>Après 2 semaines sans post à cause d'un bug du site de stats que j'utilise (qui n'est d'ailleurs toujours pas résolu), c'est l'heure du <b>bilan</b> de notre 11ème coffre de clan. Enfin un peu plus en théorie mais je ne compte pas les semaines sans post pour simplifier. Allons directement analyser nos performances !</p>
 
 [![Stats du 30/10/2017]({{ site.url }}/img/clash-royale/statsDu30102017.png)]({{ site.url }}/img/clash-royale/statsDu30102017.png)
 <i>Ouvrir l'image dans un nouvel onglet ou cliquer pour zoomer</i>
@@ -45,7 +45,7 @@ category: clash-royale
 
 <p><span class="post-title">Conclusion</span></p>
 
-<p>Une assez belle semaine pour le clan ! On félicite donc <b>MaxBalet</b> pour sa promotion, ainsi que <b>Leootaku</b> qui obtient une promotion exceptionnelle ! Je lui accorde car il est présent quasiment depuis le <b>début</b>, participe toujours régulièrement à la fois en dons, en couronnes et dans le chat. Il a toujours été un membre <b>exemplaire</b> et a frôlé plusieurs fois cette récompense. Je suis donc ravi de lui donner aujourd'hui pour tous ces efforts. On dit par contre au-revoir à <b>Kalajen</b>, <b>trytex</b> et <b>anima dx</b> en espérant que cela nous permettra de recruter des membres plus déterminés. Il aurait aussi fallu exclure <b>Riklaunim</b> en théorie mais c'est quelqu'un de présent depuis longtemps et qui jusque là participait assez <b>activement</b> au clan. Je lui laisse donc une semaine ou deux supplémentaires.</p>
+<p>Une assez belle semaine pour le clan ! On félicite donc <b>MaxBalet</b> pour sa promotion, ainsi que <b>Leootaku</b> qui obtient une promotion exceptionnelle ! Je lui accorde car il est présent quasiment depuis le <b>début</b>, participe toujours régulièrement à la fois en dons, en couronnes et dans le chat. Il a toujours été un membre <b>exemplaire</b> et a frôlé plusieurs fois cette récompense. Je suis donc ravi de lui donner aujourd'hui pour tous ces efforts. On dit par contre au-revoir à <b>Kalajen</b>, <b>trytex</b> et <b>yoyman</b> en espérant que cela nous permettra de recruter des membres plus déterminés. Il aurait aussi fallu exclure <b>Riklaunim</b> en théorie mais c'est quelqu'un de présent depuis longtemps et qui jusque là participait assez <b>activement</b> au clan. Je lui laisse donc une semaine ou deux supplémentaires.</p>
 
 <p><b>Merci</b> pour votre participation et à la semaine prochaine pour un nouveau bilan !</p>
 
