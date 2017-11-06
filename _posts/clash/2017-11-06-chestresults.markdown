@@ -33,7 +33,7 @@ category: clash-royale
 
 <p>Tout est dans le <b>vert</b> cette semaine ! La progression est légère sur tous les plans mais il y a tout de même une <b>amélioration</b> dans chaque secteur et c'est toujours une bonne nouvelle. Sachant que la semaine dernière nous avions kick <b>Kalajen</b> qui était à 4000 trophées, je ne pensais pas que le score moyen augmenterait cette semaine de ce côté.</p>
 
-<p>Et il faut souligner les multiples <b>très belles</b> performances ! 6 personnes ont un score suffisant pour une promotion cette semaine mais seuls 2 d'entre eux ne sont pas déjà ainés. C'est <b>bon signe</b> concernant la participation des membres ayant déjà eu une promotion. Puis il faut féliciter chaudement <b>myzho pour le nouveau <b>record</b> de couronnes du clan ! L'ancien record était détenu par <b>Kal</b> avec <b>333</b> couronnes mais <b>myzho</b> le détrône avec <b>335</b> couronnes. Cela représente <b>20,9%</b> des couronnes du week-end à lui tout seul.</p>
+<p>Et il faut souligner les multiples <b>très belles</b> performances ! 6 personnes ont un score suffisant pour une promotion cette semaine mais seuls 2 d'entre eux ne sont pas déjà ainés. C'est <b>bon signe</b> concernant la participation des membres ayant déjà eu une promotion. Puis il faut féliciter chaudement <b>myzho</b> pour le nouveau <b>record</b> de couronnes du clan ! L'ancien record était détenu par <b>Kal</b> avec <b>333</b> couronnes mais <b>myzho</b> le détrône avec <b>335</b> couronnes. Cela représente <b>20,9%</b> des couronnes du week-end à lui tout seul.</p>
 
 <p><span class="post-title">Les moins satisfactions</span></p>
 
