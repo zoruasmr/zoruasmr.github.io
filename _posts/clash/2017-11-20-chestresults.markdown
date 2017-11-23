@@ -41,7 +41,7 @@ category: clash-royale
 
 <p><span class="post-title">Conclusion</span></p>
 
-<p>Une bien belle semaine statistiquement ! Le score moyen continue de <b>monter</b>, le niveau du clan aussi. L'ambiance est toujours agréable à voir. Concernant les kicks de cette semaine, il se trouve que je termine ce bilan bien trop tard et qu'un nouveau coffre de clan va bientôt commencer. Il serait inutile d'exclure les 3 membres (<b>Turah, Dead-Pool et LeMarmot</b>) qui devrait l'être aussi tard. Je les laisse donc dans le clan encore ce week-end mais si la participation reste <b>faible ou inexistante</b> sur ce coffre, les décisions seront appliquées dès Lundi pour eux aussi.</p>
+<p>Une bien belle semaine statistiquement ! Le score moyen continue de <b>monter</b>, le niveau du clan aussi. L'ambiance est toujours agréable à voir. Concernant les kicks de cette semaine, il se trouve que je termine ce bilan bien trop tard et qu'un nouveau coffre de clan va bientôt commencer. Il serait inutile d'exclure les 3 membres (<b>Turah, Dead-Pool et LeMarmot</b>) qui devraient l'être aussi tard. Je les laisse donc dans le clan encore ce week-end mais si la participation reste <b>faible ou inexistante</b> sur ce coffre, les décisions seront appliquées dès Lundi pour eux aussi.</p>
 
 <p>Je voulais aussi ajouter que j'ai <b>mis à jour</b> le statut sur les demandes disponibles sur <a href="{{ site.baseurl }}/propositions/">la page des propositions</a>. <b>Merci</b> à ceux qui proposent des améliorations c'est ce qui nous fait avancer !</p>
 
