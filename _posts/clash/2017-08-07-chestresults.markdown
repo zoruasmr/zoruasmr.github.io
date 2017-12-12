@@ -35,6 +35,14 @@ category: clash-royale
 
 <p>Celle-ci est appliquée à partir du bilan du 2 Octobre 2017</p>
 
+<p><span class="post-title">Changements du 11 Décembre 2017</span></p>
+
+<p>Deux modifications pour baisser l'impact de l'ancienneté sur le score et prendre en compte le fait qu'il est plus difficile de gagner des couronnes à haut niveau ! La nouvelle formule est la suivante : </p>
+
+<p><i>Score = ((Nbr de trophées/10) + ((Dons * 100)/Niveau) + (Couronnes * 6 * Niveau)) * (1 + (0,30 * LOG(nombre de semaines)))</i></p>
+
+<p>Celle-ci est appliquée à partir du bilan du 11 Décembre 2017</p>
+
 <p><span class="post-title">Explications</span></p>
 
 <p>Pourquoi ces choix ? Et bien tout d'abord j'ai voulu prendre en compte le nombre de trophées d'un joueur car il apporte tout de même au niveau global du clan et cela doit être récompensé. Cependant j'ai voulu garder l'impact très minime d'où la division par 10. On atteint alors davantage un <b>petit bonus</b> sympa plutôt qu'un totem d'immunité. <br/>
