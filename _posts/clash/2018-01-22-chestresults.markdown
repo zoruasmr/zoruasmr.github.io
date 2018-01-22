@@ -15,6 +15,8 @@ category: clash-royale
 [![Stats du 22/01/2018]({{ site.url }}/img/clash-royale/statsDu22012018.png)]({{ site.url }}/img/clash-royale/statsDu22012018.png)
 <i>Ouvrir l'image dans un nouvel onglet ou cliquer pour zoomer</i>
 
+<i>petite erreure pour Bingbang qui n'est pas parti</i>
+
 <p>Si tu veux plus de détails sur la façon dont est calculé le score, je te conseille le <a href="{{ "/clash-royale/2017/08/07/chestresults/" | prepend: site.baseurl }}" target="_blank">premier post récapitulatif</a> qui contient les explications. Pour cette semaine, le palier de promotion est resté à 13 000 et le palier de kick est resté à 1000.</p>
 
 <p>Comme chaque semaine désormais, on débute avec une <b>comparaison</b> de nos moyennes avec celles de la semaine précédente.</p>
