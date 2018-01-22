@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Résultats du coffre de clan du 22 Janvier 2018"
-subtitle:   "Changement de formule"
-date:       2017-12-11 08:00:00
+subtitle:   "Le ménage du nouvel an"
+date:       2018-01-22 08:00:00
 author:     "Zoru"
 header-img: "img/clash-royale/clash-royale-chest.jpg"
 category: clash-royale
