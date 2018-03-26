@@ -13,7 +13,7 @@ category: clash-royale
 <p>C'est l'heure du <b>bilan</b> de notre 25ème coffre de clan ! Allons directement analyser nos performances !</p>
 
 [![Stats du 26/03/2018]({{ site.url }}/img/clash-royale/statsDu26032018.png)]({{ site.url }}/img/clash-royale/statsDu26032018.png)
-<i>Ouvrir l'image dans un nouvel onglet ou cliquer pour zo
+<i>Ouvrir l'image dans un nouvel onglet ou cliquer pour zoomer
 
 <p>Si tu veux plus de détails sur la façon dont est calculé le score, je te conseille le <a href="{{ "/clash-royale/2017/08/07/chestresults/" | prepend: site.baseurl }}" target="_blank">premier post récapitulatif</a> qui contient les explications. Pour cette semaine, le palier de promotion est resté à 15 000 et le palier de kick est resté à 1000.</p>
 
