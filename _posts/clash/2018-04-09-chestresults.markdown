@@ -31,11 +31,11 @@ category: clash-royale
 
 <p><span class="post-title">Les satisfactions</span></p>
 
-<p>Un coffre terminé un peu plus tard que d'habitude mais toujours en avance, c'est appréciable ! On notera une nouvelle fois que gromignon explose les scores malgré le fait qu'il n'était pas très disponible ce week-end. Bravo aussi à paillonrose qui refait une belle semaine.</p>
+<p>Un coffre terminé un peu plus tard que d'habitude mais toujours en avance, c'est appréciable ! On notera une nouvelle fois que <b>gromignon</b> explose les scores malgré le fait qu'il n'était pas très disponible ce week-end. Bravo aussi à <b>papillonrose</b> qui refait une belle semaine.</p>
 
 <p><span class="post-title">Les moins satisfactions</span></p>
 
-<p><b>Davantage de membres inactifs que d'habitude, 3 kicks à la fin de ce bilan. A surveiller mais rien d'alarmant pour le moment.</b></p>
+<p>Davantage de membres <b>inactifs</b> que d'habitude, 3 kicks à la fin de ce bilan. A surveiller mais rien d'alarmant pour le moment.</p>
 
 <p><span class="post-title">Conclusion</span></p>
 
